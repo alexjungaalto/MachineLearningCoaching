@@ -16,12 +16,14 @@ I bring over a decade of experience in:
 - **Mentorship and Coaching**: Guided academics and professionals in research, teaching, and leadership.
 
 📘 Author of [*Machine Learning: The Basics*](https://link.springer.com/book/10.1007/978-981-16-8193-6)  
-The main theme of my book is the decomposition of machine learning methods, ranging from linear regression to 
-deep reinforcement learning, into three design choices: data, model and loss. 
+In my book, I break down machine learning methods from linear regression to deep reinforcement learning 
+into three fundamental design choices: **data**, **model**, and **loss**. This structured approach provides 
+readers with a clear framework for understanding and designing machine learning systems.
 
 🎥 Creator of educational content on my [YouTube Channel](https://www.youtube.com/@alexjung111)  
-Over the years I have built a YouTube channel with recordings of lectures, scientific talks, master 
-thesis presentations as well as group meetings. 
+I have developed a YouTube channel featuring rich educational resources, including lecture 
+recordings, scientific talks, master thesis presentations, and group meetings. My channel 
+serves as a hub for sharing knowledge and fostering academic engagement.
 
 
 ---
