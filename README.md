@@ -80,7 +80,7 @@ requirements for trustworthy machine learning. [Brochure of the summer school](h
 ### 4. Online Courses for Finnish Institute of Technology
 Developed two online courses [*Machine Learning with Python*](https://fitech.io/en/studies/machine-learning-with-python/) 
 and [*Deep Learning with Python*](https://fitech.io/en/studies/deep-learning-with-python/) which have been 
-among the most popular courses offered via the [Finnish Institute of Technology][https://fitech.io/en/]. 
+among the most popular courses offered via the [Finnish Institute of Technology](https://fitech.io/en/). 
 
 ### 5. Publications
 - Authored the textbook [*Machine Learning: The Basics*](https://link.springer.com/book/10.1007/978-981-16-8193-6).
