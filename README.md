@@ -73,10 +73,12 @@ Redesigned the machine learning curriculum with a focus on interactivity and acc
 Delivered tailored AI training programs for Aalto Executive Education. 
 
 ### 3. Human-Centered ML Summer School
-Developed an interdisciplinary program addressing societal impacts of machine learning.
+Developed an interdisciplinary summer school for the [European University Alliance Unite!](https://uniteinanutshell.unite-university.eu/p%C3%A0gina-dinici). 
+The summer school took place during summer 2022 at Aalto University and revolved around key requirements for trustworthy machine learning. 
+[Brochure of the summer school](https://www.aalto.fi/sites/g/files/flghsv161/files/2022-03/Human-Centered%20Machine%20Learning%20brochure%202022_0.pdf)
 
-### 4. Online Courses for Finnish University Network (FiTech.io) 
-Developed the 2-credit courses "Machine Learning with Python" and "Deep Learning with Python" which have been 
+### 4. Online Courses for Finnish University Network 
+Developed the 2-credit courses [*Machine Learning with Python*](https://fitech.io/en/studies/machine-learning-with-python/) and "Deep Learning with Python" which have been 
 among the most popular courses offered via fitech.io
 
 ### 5. Publications
