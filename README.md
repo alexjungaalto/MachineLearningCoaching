@@ -18,6 +18,9 @@ I bring over a decade of experience in:
 📘 Author of [*Machine Learning: The Basics*](https://link.springer.com/book/10.1007/978-981-16-8193-6)  
 🎥 Creator of educational content on my [YouTube Channel](https://www.youtube.com/@alexjung111)  
 
+![Machine Learning: The Basics](https://link.springer.com/covers/book/10.1007/978-981-16-8193-6/large)  
+*My book provides a foundational understanding of machine learning principles and methods.*
+
 ---
 
 ## Services Offered
@@ -62,12 +65,16 @@ I bring over a decade of experience in:
 Redesigned the machine learning curriculum with a focus on interactivity and accessibility using tools like [JupyterHub](https://jupyter.org).
 
 ### 2. Executive Education
-Delivered tailored AI training programs for Aalto Executive Education.
+Delivered tailored AI training programs for Aalto Executive Education. 
 
 ### 3. Human-Centered ML Summer School
 Developed an interdisciplinary program addressing societal impacts of machine learning.
 
-### 4. Publications
+### 4. Online Courses for Finnish University Network (FiTech.io) 
+Developed the 2-credit courses "Machine Learning with Python" and "Deep Learning with Python" which have been 
+among the most popular courses offered via fitech.io
+
+### 5. Publications
 - Authored the textbook [*Machine Learning: The Basics*](https://link.springer.com/book/10.1007/978-981-16-8193-6).
 - Developed a [Machine Learning Dictionary](https://aaltodictionaryofml.github.io/ADictML.pdf).
 
@@ -75,21 +82,20 @@ Developed an interdisciplinary program addressing societal impacts of machine le
 
 ## Testimonials
 
-> "Dr. Jung's sessions were transformative, making advanced AI concepts digestible and applicable to my work as a manager in tech."  
-> – Executive Education Participant
+> "As summary, Alex has been very successful in renewing the basics of machine learningteaching. The courses that he has created have had major role in raising the understandingof machine learning in various industry fields."  
+> – Vice-Head of Department for Teaching
 
-> "His coaching helped me navigate the challenges of supervising my first thesis students. I now feel confident in my role as an advisor."  
-> – Academic Mentee
+> "I learnt to know Alex in 2015 in my earlier role, VP Education of Aalto University, when Alex joined thefaculty of Aalto University School of Science as an Assistant Professor. My first impression was hisdedication and passion to create powerful learning experience to all his students. It was no surprisethat the student feedback was extremely positive since day one."  
+> – Former VP Education of Aalto University 
 
 ---
 
 ## Tools and Methodologies
 
-- **Platforms**: JupyterHub, Python, MyCourses, YouTube.
-- **Techniques**:
-  - Project-based learning and coding exercises.
-  - Interactive quizzes for real-time feedback.
-  - Structured goal-setting for coaching sessions.
+- Tailored case studies
+- Project-based learning and coding exercises.
+- Interactive quizzes for real-time feedback.
+- Structured goal-setting for coaching sessions.
 
 ---
 
@@ -97,18 +103,6 @@ Developed an interdisciplinary program addressing societal impacts of machine le
 
 🚀 Let's work together to achieve your educational or professional goals!  
 
-📩 Email: [your.email@example.com]  
+📩 Email: [alexjung235@gmail.com]  
 🔗 LinkedIn: [Alexander Jung](https://www.linkedin.com/in/aljung/)  
 💻 GitHub: [alexjungaalto](https://github.com/alexjungaalto)  
-
----
-
-## Repository Structure
-
-This repository includes:
-- A **PDF version** of this portfolio.
-- **Slides** for presentations.
-- Sample **curriculum plans** for workshops and courses.
-- Links to **video resources** and tutorials.
-
-Feel free to explore and contribute!
