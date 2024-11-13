@@ -74,16 +74,17 @@ Delivered tailored AI training programs for Aalto Executive Education.
 
 ### 3. Human-Centered ML Summer School
 Developed an interdisciplinary summer school for the [European University Alliance Unite!](https://uniteinanutshell.unite-university.eu/p%C3%A0gina-dinici). 
-The summer school took place during summer 2022 at Aalto University and revolved around key requirements for trustworthy machine learning. 
-[Brochure of the summer school](https://www.aalto.fi/sites/g/files/flghsv161/files/2022-03/Human-Centered%20Machine%20Learning%20brochure%202022_0.pdf)
+The summer school took place during summer 2022 at Aalto University and revolved around key 
+requirements for trustworthy machine learning. [Brochure of the summer school](https://www.aalto.fi/sites/g/files/flghsv161/files/2022-03/Human-Centered%20Machine%20Learning%20brochure%202022_0.pdf)
 
-### 4. Online Courses for Finnish University Network 
-Developed the 2-credit courses [*Machine Learning with Python*](https://fitech.io/en/studies/machine-learning-with-python/) and "Deep Learning with Python" which have been 
-among the most popular courses offered via fitech.io
+### 4. Online Courses for Finnish Institute of Technology
+Developed two online courses [*Machine Learning with Python*](https://fitech.io/en/studies/machine-learning-with-python/) 
+and [*Deep Learning with Python*](https://fitech.io/en/studies/deep-learning-with-python/) which have been 
+among the most popular courses offered via the [Finnish Institute of Technology][https://fitech.io/en/]. 
 
 ### 5. Publications
 - Authored the textbook [*Machine Learning: The Basics*](https://link.springer.com/book/10.1007/978-981-16-8193-6).
-- Developed a [Machine Learning Dictionary](https://aaltodictionaryofml.github.io/ADictML.pdf).
+- Developed [*The Aalto Dictionary of Machine Learning*](https://aaltodictionaryofml.github.io/ADictML.pdf).
 
 ---
 
