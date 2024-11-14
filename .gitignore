@@ -24,7 +24,6 @@
 *.xdv
 
 # PDF and PostScript files (if you want to exclude the final outputs as well)
-*.pdf
 *.ps
 *.eps
 
