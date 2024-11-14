@@ -1,0 +1,43 @@
+# LaTeX intermediate and auxiliary files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.dvi
+*.xdv
+
+# PDF and PostScript files (if you want to exclude the final outputs as well)
+*.pdf
+*.ps
+*.eps
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.sav
+
+# Generated files
+*.run.xml
+*.bcf
+
+# Editor-specific files
+.vscode/
+*.idea/
