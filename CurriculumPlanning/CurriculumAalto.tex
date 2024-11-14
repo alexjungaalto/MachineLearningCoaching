@@ -1,0 +1,53 @@
+\documentclass[tikz,border=2mm]{standalone}
+\usetikzlibrary{arrows.meta, positioning}
+
+\begin{document}
+
+	\begin{tikzpicture}[
+		>={Stealth},
+		node distance=1.5cm and 2.5cm,
+	%	every node/.style={draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm},
+		every edge/.style={draw, ->}
+		]
+		
+		% Nodes
+		\node (MLBsc) [draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-C3240 \\ Machine Learning};
+		\node (CvxOpt) [draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm,below=of MLBsc] {CS-E4020 \\ Convex Optimization\\ for Machine Learning};
+		\node (MLBP) [below=of CvxOpt,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-E3210 \\ Machine Learning: \\ Basic Principles};
+		\node (MLwP) [below right=1.5cm and 2cm of MLBsc,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm]  {CS-EJ3211 \\ Machine Learning \\ with Python};
+		\node (DLwP) [below=of MLwP,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-EJ3311 \\ Deep Learning \\ with Python};
+		\node (HCL) [below left=1cm and 3cm of MLBsc,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-E407507\\ Human Centered\\ Machine Learning};
+		\node (FL) [left=of MLBP,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-E4740 \\ Federated Learning};
+	%	\node (CSE4070) [below=of CSC3240] {CS-E4070 \\ Federated Learning\\ Machine Learning};
+		\node (AI) [below=of MLBP,draw, rectangle, rounded corners, align=center, font=\footnotesize, text width=3cm] {CS-E4800 \\ Artificial Intelligence};
+		
+		  %  \node at (5, 0) {\includegraphics[width=2cm]{fitech.png}};
+		
+		 \node[anchor=west, xshift=0.5cm] at (MLwP.east) {\includegraphics[width=2cm]{fitech.png}};
+		 \node[anchor=west, xshift=0.5cm] at (DLwP.east) {\includegraphics[width=2cm]{fitech.png}};
+		  \node[anchor=east, xshift=-0.5cm] at (FL.west) {\includegraphics[width=2cm]{fitech.png}};
+		    \node[anchor=east, xshift=-0.5cm] at (HCL.west) {\includegraphics[width=2cm]{unite!.jpg}};
+		    
+		%\node[anchor=west, xshift=0.5cm] at (DLwP.east) {\includegraphics[width=0.8cm]{fitech.png}};
+		
+		
+		
+		% Edges
+		\draw[line width=0.5mm,bend left=0,->] (CvxOpt) to (MLBP);
+			\draw[line width=0.5mm,bend left=20,->] (CvxOpt) to (FL);
+			\draw[line width=0.5mm,out=-20,in=120,->,dashed] (CvxOpt) to (DLwP);
+		\draw[line width=0.5mm,bend right=0,->] (MLBP) to (AI);
+		\draw[line width=0.5mm,out=-25,in=90,->] (MLBsc) to (MLwP);
+		\draw[line width=0.5mm,out=-115,in=90,->] (MLBsc) to (FL);
+		\draw[line width=0.5mm,out=-25,in=20,->] (MLBsc) to (MLBP);
+		\draw[line width=0.5mm,out=-120,in=20,->] (MLBsc) to (HCL);
+		\draw[line width=0.5mm,bend left=0,->] (MLwP) to (DLwP);
+	%	\draw[bend left=20] (MLwP) to (FL);
+	%	\draw[bend left=15] (DLwP) to (FL);
+		%\draw[bend left=15] (CSE13211) to (CSE4070);
+		%\draw[bend left=10] (CSC3240) to (CSE4070);
+		%\draw[bend left=20] (FL) to (AI);
+	%	\draw[bend left=15] (CS3210) to (CSE4070);
+		
+	\end{tikzpicture}
+\end{document}
